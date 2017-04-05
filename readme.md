@@ -14,6 +14,10 @@ Laravel Passport is an OAuth2 server and API authentication package that is simp
 
 Will be updated along with Laravel Passport update.
 
+## Installation
+
+Always use branch 2.0 or 2.0.7 if you use the release version 
+
 ## Official Documentation
 
 Documentation for Passport can be found on the [Laravel website](http://laravel.com/docs/master/passport).
