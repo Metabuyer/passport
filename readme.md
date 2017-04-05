@@ -1,4 +1,4 @@
-# Laravel Passport For MongoDb
+# Laravel Passport For MongoDb 
 
 [![Build Status](https://travis-ci.org/laravel/passport.svg)](https://travis-ci.org/laravel/passport)
 [![Total Downloads](https://poser.pugx.org/laravel/passport/d/total.svg)](https://packagist.org/packages/laravel/passport)
@@ -8,7 +8,11 @@
 
 ## Introduction
 
+This repository is forked from [Laravel Passort](https://github.com/laravel/passport) and updated to support mongodb connection using Jenssengers/mongodb
+
 Laravel Passport is an OAuth2 server and API authentication package that is simple and enjoyable to use.
+
+Will be updated along with Laravel Passport update.
 
 ## Official Documentation
 
