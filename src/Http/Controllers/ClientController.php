@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Laravel\Passport\Client;
 use Laravel\Passport\ClientRepository;
-use Illuminate\Database\Eloquent\Model;
+use Jenssegers\Mongodb\Eloquent\Model as Model;
 use Illuminate\Contracts\Validation\Factory as ValidationFactory;
 
 class ClientController
