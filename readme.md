@@ -1,4 +1,4 @@
-# Laravel Passport
+# Laravel Passport With MongoDb
 
 [![Build Status](https://travis-ci.org/laravel/passport.svg)](https://travis-ci.org/laravel/passport)
 [![Total Downloads](https://poser.pugx.org/laravel/passport/d/total.svg)](https://packagist.org/packages/laravel/passport)
